@@ -16,4 +16,8 @@ public class CountryDistance {
 		this.distanceKms = distanceKms;
 		this.invocations = new AtomicLong(1);
 	}
+
+    public CountryDistance() {
+
+    }
 }

@@ -1,6 +1,5 @@
 package com.example.ipchallengemeli.controller;
 
-import com.example.ipchallengemeli.domain.country.CountryInfoService;
 import com.example.ipchallengemeli.exceptions.BadRequestIpException;
 import org.apache.commons.validator.routines.InetAddressValidator;
 import com.example.ipchallengemeli.domain.country.CountryInfoFinderService;
