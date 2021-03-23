@@ -48,7 +48,7 @@ public class IpFinderControllerTest {
         countryIpRelatedInfo.setCountry("Australia");
         countryIpRelatedInfo.setCurrency("AUD (1 AUD = 0.7744155844 USD)");
         countryIpRelatedInfo.setIsoCode("AU");
-        countryIpRelatedInfo.setIp("1.123.30.170");
+        countryIpRelatedInfo.setIp(IP);
         countryIpRelatedInfo.setLanguage("English (en");
         countryIpRelatedInfo.setLocalDateTime("23-03-2021 01:50:05");
         countryIpRelatedInfo.setTime("06:50:05 (UTC+05:00) o 08:20:05 (UTC+06:30) o 08:50:05 (UTC+07:00) o 09:50:05 (UTC+08:00) o 11:20:05 (UTC+09:30) o 11:50:05 (UTC+10:00) o 12:20:05 (UTC+10:30) o 13:20:05 (UTC+11:30");
